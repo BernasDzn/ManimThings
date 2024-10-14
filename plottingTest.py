@@ -15,7 +15,7 @@ class Plot(Scene):
         
         self.play(Write(axes))
         
-        graph = axes.get_graph(equation, color=RED)
+        graph = axes.get_graph(equation, color=RED, x_range=[-3, 3])
         self.play(Write(graph), run_time=3, rate_func=smooth)
             
         self.wait(1)
