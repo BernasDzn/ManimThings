@@ -1,1 +1,6 @@
 # okay
+
+## dependencies
+
+- manimgl
+- fim
