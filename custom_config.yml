@@ -1,0 +1,12 @@
+directories:
+  output: "/Users/berna/videos"
+style:
+  background_color: "#000000"
+camera_resolutions:
+  default_resolution: "high"
+file_writer_config:
+  saturation: 1.5
+fps: 60
+window_position: UR
+window_monitor: 0
+full_screen: False
