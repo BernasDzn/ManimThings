@@ -5,6 +5,22 @@
 - manimgl
 - fim
 
+## installing dependencies
+
+```
+#Install manimgl
+pip install manimgl
+
+#Clone repo
+git clone https://github.com/3b1b/manim
+
+#Get to project folder
+cd manim
+
+#Install dependencies
+pip install -e .
+```
+
 ## usage
 
 ### open cmd
