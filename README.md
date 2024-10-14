@@ -7,17 +7,17 @@
 
 ## installing dependencies
 
-```
-#Install manimgl
+```python
+# Install manimgl
 pip install manimgl
 
-#Clone repo
+# Clone repo
 git clone https://github.com/3b1b/manim
 
-#Get to project folder
+# Get to project folder
 cd manim
 
-#Install dependencies
+# Install dependencies
 pip install -e .
 ```
 
