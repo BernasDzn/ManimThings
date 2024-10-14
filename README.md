@@ -12,3 +12,6 @@
 - ```manimgl scene.py ClassName```
 #### or
 - ```manim-render -o filename scene.py ClassName```
+
+Credits:
+https://github.com/3b1b/manim
